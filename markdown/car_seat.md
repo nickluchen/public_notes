@@ -26,6 +26,7 @@
         - [半通用型](#半通用型)
     - [美国标准 LATCH (Lower Anchors and Tethers for Children)](#美国标准-latch-lower-anchors-and-tethers-for-children)
 - [其他建议](#其他建议)
+- [Britax 产品](#britax-产品)
 
 <!-- /TOC -->
 
@@ -297,3 +298,7 @@ LATCH软质链接其独特的优势:
 5、考虑后排是否经常坐人，安全座椅是否经常需要在家中不同车辆中使用等等
 
 6、购买安全座椅的预算范围
+
+# Britax 产品
+
+![年龄款式](britax_products.jpg)
