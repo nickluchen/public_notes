@@ -19,12 +19,13 @@
             - [分析](#分析)
             - [关于标准 About the specification](#关于标准-about-the-specification)
             - [建议](#建议)
-- [ISOFIX v.s. LATCH](#isofix-vs-latch)
+- [ISOFIX v.s. LATCH](#isofix-vs-latch)
     - [ISOFIX (International Standards Organization FIX)](#isofix-international-standards-organization-fix)
         - [ISOFIX 儿童约束系统 ISOFIX CRS (Child Restrain System)](#isofix-儿童约束系统-isofix-crs-child-restrain-system)
         - [通用型](#通用型)
         - [半通用型](#半通用型)
     - [美国标准 LATCH (Lower Anchors and Tethers for Children)](#美国标准-latch-lower-anchors-and-tethers-for-children)
+- [其他建议](#其他建议)
 
 <!-- /TOC -->
 
@@ -216,7 +217,7 @@ I-SIZE标准没有立即取代ECE-R44/04，而是在相当长的一段时间内�
 
 > PS：关于前置护体和5点式安全带的争议还是留给也业内人士和大神们去搞。就目前的认知，个人不推荐儿童在2岁前使用前置护体的安全座椅。有朝一日，前置护体的安全座椅能够通过“残暴”的Swedish Plus Test，我会向大家推荐。
 
-# ISOFIX v.s. LATCH
+# ISOFIX v.s. LATCH
 
 下图是网上最常见的ISOFIX与LATCH的区别
 
@@ -260,4 +261,39 @@ ISOFIX semi universal CRS 在前向或后向安装时需要有两个ISOFIX接口
 
 ## 美国标准 LATCH (Lower Anchors and Tethers for Children)
 
-LATCH安装两个下置锚点（Lower Anchors）时可以是像ISOFIX一样的硬质链接（Rigid），也可以是 软质链接（Flexible 接头部分也是金属只是中间部分也是同安全带一样的材质
+LATCH安装两个下置锚点（Lower Anchors）时可以是像ISOFIX一样的硬质链接（Rigid），也可以是软质链接（Flexible 接头部分也是金属只是中间部分也是同安全带一样的材质。
+
+产品：
+
+* Britax Advocate (同系列还有MARATHON、BOULEVARD、PAVILION，2个下固定点软质链接，后向到18kg，前向到25kg)
+* MAXI-COSI Pria 70 （后向到18kg，可配新生儿内衬）
+* Clek Foonf 2013 Convertible Child Seat（两个下固定点硬质链接，后向到22kg，前向到29kg）
+
+LATCH安装时，如果两个下置锚点是采用硬质链接，安装便利性、稳固程度与ISOFIX是一样的，采用软质链接时效果稍差。
+
+下图为后续讲述方便的车辆座椅位置分布示意图，不代表所有的儿童安全座椅可以安装在1-7号的位置。
+
+![座椅位置](seats_position.jpg)
+
+LATCH软质链接其独特的优势:
+
+1、能相对便宜的价格实现安全座椅较为简易的前后双向安装（ISOFIX 通常只做成前向或后向，可双向ISOFIX安装的安全座椅大多价格昂贵。且通常的汽车只在2、4号位置配置有ISOFIX接口，在1、3号位置配置ISOFIX接口的车辆很少）
+2、在车辆允许（详见汽车说明书）以及安全座椅支持（详见说明书）的情况下，在汽车3号位没有ISOFIX接口(或LATCH下置接口)的情况采取各连接2、4号一个内侧接口的方式实现将安全座椅安装在最安全的后排中间（3号）位置。
+
+车辆受到撞击缩溃变形凹向车体内部，拥有最大缓冲空间的位置就是后排中间。对于使用独立的儿童安全座椅的小朋友来说，如果车辆允许（详见汽车说明书）以及安全座椅支持（详见说明书）的情况下，安装在后排中间位置最为安全。
+
+> 引用Britax的原文：The safest place for your child in anyvehicle is theback seat. The center of the rear seat is the furthest from a side impact.对小朋友来说车内最安全的座位是后排座位。后排中间的位置可有效远离侧面撞击。
+
+# 其他建议
+
+、不要过于迷信xxx品牌（任何品牌都有测试成绩不好或者用户口碑不好的型号），未能深入了解安全座椅发展历史和现状前也不要主观贬低，说xxx品牌就是一个笑话，到处黑。
+
+2、辩证的看待各类推荐榜单（不同安全座椅厂家根据不同国家、地区的政策、法规要求和消费习惯，销售的产品是不同，甚至在某些国家不销售或销量很小，自然也不会送某些组织或机构检测）例如：某同学对某美国榜单看不到CONCORD和STM表示不屑一顾，实际是怎样呢？ RECARO在美国也是大牌子（而STM被RECARO收购，算是子品牌，因销售策略STM基本见不到）CONCORD进入美国市场较晚，提篮能见到，而使用前置护体的座椅很少（现行前置护体的“前世”是一种叫带“T”型盾的安全座椅，早些年在美国的实际使用记录很惨烈，所以美国消费者对待前置护体是有所忌惮的，况且美国更推荐后向到2岁）
+
+3、仔细阅读家中爱车的使用说明书关于安全带以及儿童安全座椅的章节是否有特殊说明和要求，并实际查看你家爱车是否有ISOFIX接口、是否有top tether（顶部锚点，其实叫第三锚点更合适），后排中间是否是3点式安全带。（说明书可能是车系通用，但具体车型和车款可能简配，所以一定要实际查看）
+
+4、在驾驶员（带宝宝出门最多的那个）调整好座位后，测量前排座椅与后排座位的空间。
+
+5、考虑后排是否经常坐人，安全座椅是否经常需要在家中不同车辆中使用等等
+
+6、购买安全座椅的预算范围
