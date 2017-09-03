@@ -28,6 +28,8 @@ OpenStack是IaaS(基础设施即服务)组件，让任何人都可以自行建�
 # 2. 帖子，博客等 - Posts
 
 * [OpenStack 七年盘点，热潮褪去后的明天在哪？](http://www.infoq.com/cn/articles/openstack-seven-years-tomorrow?utm_source=articles_about_OpenStack&utm_medium=link&utm_campaign=OpenStack)
+* [使用 OpenStack 实现云计算和存储 (发现使用开源 OpenStack IaaS 云平台的益处)](https://www.ibm.com/developerworks/cn/cloud/library/cl-openstack-cloud/) - (2012 年 9 月 10 日发布的IBM developerWorks博客，但还是挺浅显易懂的)
+* [知乎 - 热门问答 - OpenStack](https://www.zhihu.com/topic/19620778/hot)
 
 # 3. 参考链接 - Reference
 
