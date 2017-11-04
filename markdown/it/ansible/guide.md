@@ -1,4 +1,17 @@
-Example code
+<!-- TOC -->
+
+- [1. Synopsis](#1-synopsis)
+- [2. Example code](#2-example-code)
+
+<!-- /TOC -->
+
+# 1. Synopsis
+
+```bash
+ansible <pattern_goes_here> -m <module_name> -a <arguments>
+```
+
+# 2. Example code
 
 ```bash
 # Perform aptitude update with -K, --ask-become-pass (ask for privilege escalation password)
